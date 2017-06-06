@@ -40,7 +40,7 @@ a {
   .side-menu .highlight {
     background: #f4f4f4; }
   .side-menu .article-list {
-    padding-left: 20px; }
+    padding-left: 10px; }
     .side-menu .article-list a {
       color: #3775aa; }
   .side-menu .social {
@@ -51,7 +51,7 @@ a {
 
 .content {
   border-top: 1px solid lightgrey;
-  width: 70%; }
+  width: 67%; }
   .content h2 {
     font-family: 'Oswald'; }
   .content p {
